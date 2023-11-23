@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Student\Desktop\Mid-Term.cpp\Mid-Term.cpp\Source.cpp(25,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\Desktop\Mid-Term.cpp\Mid-Term.cpp\Source.cpp(6,6): warning C4101: 'increased_salary': unreferenced local variable
+  Mid-Term.cpp.vcxproj -> C:\Users\Student\Desktop\Mid-Term.cpp\x64\Debug\Mid-Term.cpp.exe
